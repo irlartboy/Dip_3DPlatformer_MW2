@@ -15,6 +15,7 @@ public class PlayerStats : MonoBehaviour
 
     public GameObject gameOverPanel;
     public GameObject gameUIPanel;
+    public GameObject hurtPanel;
 
     [Header("Player Stats")]
     public float curHealth;
@@ -28,10 +29,11 @@ public class PlayerStats : MonoBehaviour
     {
         healthSlider.value = Mathf.Clamp01(curHealth / health);
         jetpackSlider.value = Mathf.Clamp01(curJetpack / jetpack);
+        Hurt();
     }
     public void PlayerTakeDamage(int damage)
     {
-        //health -= damage;
+        
         curHealth -= damage;
         if (curHealth <= 0)
         {
@@ -41,6 +43,7 @@ public class PlayerStats : MonoBehaviour
             healthSlider.enabled = false;
 
         }
+      
     }
     void ManageHealthBar()
     {
@@ -48,6 +51,18 @@ public class PlayerStats : MonoBehaviour
         {
             healthFill.enabled = false;
         }
+    }
+    public void Hurt()
+    {
+        if (curHealth <= 25)
+        {
+            hurtPanel.SetActive(true);
+        }
+        else
+        {
+            hurtPanel.SetActive(false);
+        }
+
     }
   
 }
