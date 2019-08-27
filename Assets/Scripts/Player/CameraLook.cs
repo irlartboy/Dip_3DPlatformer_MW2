@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class CameraLook : MonoBehaviour
 {
-    public bool isCursorHidden = true;
     public float minPitch = -60f, maxPitch = 80f;
     public Vector2 speed = new Vector2(120f, 120f);
 
@@ -13,11 +12,7 @@ public class CameraLook : MonoBehaviour
 
     void Start()
     {
-        if (isCursorHidden)
-        {
-            Cursor.lockState = CursorLockMode.Locked;
-            Cursor.visible = false;
-        }
+
         euler = transform.eulerAngles;
     }
 
