@@ -85,6 +85,10 @@ public class PlayerMovement : MonoBehaviour
             motion.x = direction.x * runSpeed;
             motion.z = direction.z * runSpeed;
         }
+        if (!IsGrounded() && Input.GetMouseButton(1))
+        {
+
+        }
     }
 
     public void Jump(float height)
