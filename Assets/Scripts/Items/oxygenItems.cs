@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class healthItems : MonoBehaviour
+public class oxygenItems : MonoBehaviour
 {
-    public float heal = 10;
+    public float heal = 25;
     void Start()
     {
 
@@ -12,7 +12,6 @@ public class healthItems : MonoBehaviour
 
     void Update()
     {
-
 
     }
 }

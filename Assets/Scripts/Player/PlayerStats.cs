@@ -24,6 +24,10 @@ public class PlayerStats : MonoBehaviour
     public float curJetpack;
     public float jetpack;
 
+    public int heal = 25;
+
+    
+
 
     void Update()
     {
@@ -45,7 +49,24 @@ public class PlayerStats : MonoBehaviour
         }
       
     }
-    void ManageHealthBar()
+    public void Heal()
+    {
+        curHealth += heal;
+    }
+    public void DestroyItem(GameObject item)
+    {
+        Destroy(item);
+    }
+    public void OnTriggerEnter(Collider other)
+    {
+        if (other.tag == "HealthItem")
+        {
+            Heal();
+            DestroyItem(other.gameObject);
+
+        }
+    }
+        void ManageHealthBar()
     {
         if (curHealth <= 0 && healthFill.enabled)
         {

@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
     public float walkSpeed = 6f;
     public float gravity = 15f;
     public float jumpHeight = 8f;
+    public float boostHeight = 13f;
     public LayerMask groundLayer;
     public float groundRayDistance = 1.1f;
 
@@ -85,9 +86,9 @@ public class PlayerMovement : MonoBehaviour
             motion.x = direction.x * runSpeed;
             motion.z = direction.z * runSpeed;
         }
-        if (!IsGrounded() && Input.GetMouseButton(1))
+        if (IsGrounded() && Input.GetMouseButton(1))
         {
-
+            motion = direction * boostHeight;
         }
     }
 
@@ -96,4 +97,5 @@ public class PlayerMovement : MonoBehaviour
         motion.y = height;
         isJumping = true;
     }
+   
 }
