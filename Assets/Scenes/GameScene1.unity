@@ -270,6 +270,256 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 22206400}
   m_CullTransparentMesh: 0
+--- !u!1001 &66453590
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 850748920}
+    m_Modifications:
+    - target: {fileID: 2587412892558601478, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_Name
+      value: Device-UI
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601478, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 320.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 168
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412893030531021, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_TagString
+      value: LogTitle
+      objectReference: {fileID: 0}
+    - target: {fileID: 2587412893860296918, guid: 612ab780c21d04541b3790a2d7f24191,
+        type: 3}
+      propertyPath: m_TagString
+      value: LogDesc
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 612ab780c21d04541b3790a2d7f24191, type: 3}
+--- !u!224 &66453591 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 2587412892558601473, guid: 612ab780c21d04541b3790a2d7f24191,
+    type: 3}
+  m_PrefabInstance: {fileID: 66453590}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &66453592 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2587412893860296912, guid: 612ab780c21d04541b3790a2d7f24191,
+    type: 3}
+  m_PrefabInstance: {fileID: 66453590}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &66453593 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2587412893030531023, guid: 612ab780c21d04541b3790a2d7f24191,
+    type: 3}
+  m_PrefabInstance: {fileID: 66453590}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &81833949
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: cf4
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -35.94869
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.125843
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 317.11362
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 419 Chef Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "10.50 AM. Log 1: Giving up - I\u2019ve given in to my habits again.
+        As the ship was hit, and the alarms started to ring - between the red flashes
+        of light from the lights above me, I realised that I had cut too deep. This
+        is it - this is where I die. I feel myself getting heavier as I lose blood,
+        but I don\u2019t want to think about that right now. The child\u2026 The child
+        was a saint. They tried to warn me of this, but I just couldn\u2019t stop.
+        I need to get up and console the crew\u2026 They must be so scared\u2026 I
+        need\u2026 To\u2026 Get up\u2014\r\n\r\nDay 419 Mission Log - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
 --- !u!1 &90858246
 GameObject:
   m_ObjectHideFlags: 0
@@ -359,7 +609,7 @@ Transform:
   m_LocalScale: {x: 78.37658, y: 0.322, z: 20.608}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 90}
 --- !u!1 &167740510
 GameObject:
@@ -502,7 +752,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &266954017
 GameObject:
@@ -613,8 +863,112 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 360}
+--- !u!1001 &271033196
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: en1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.0821321
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.125843
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 88.38087
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 416 Engineer Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "8.40 AM. Log 1: Navigation bug has returned - Yet again, this bug has
+        returned. I can only postpone it\u2019s next attack, return is inevitable.
+        I\u2019m glad it\u2019s consistent though, I learn how to fix it faster each
+        time.\r\n\r\n10.40 AM. Log 2: Kitchen knife went missing - There should be
+        panic on this ship, but over four hundred days together have passed, us four
+        passengers have come to trust each other\u2026 I doubt the chef would\u2019ve
+        just accidently lost the knife though, it\u2019s too out of character for
+        her. Regardless, we\u2019re all hoping to find the blade soon\u2026 just in
+        case.\r\n\r\n5.30 PM. Log 3: The pilot has passed out again - Another day,
+        another trip to the infirmary. That headstrong pilot has once again over exhausted
+        himself. I mean, what exactly is there to do that would require so much energy
+        output? One would think that a body adapts to constant stresses, but apparently
+        not in the pilot\u2019s situation. \r\n\r\n11.10 PM. Log 4: The child\u2019s
+        nightmare - Nightmares aren\u2019t usually a big deal, but that poor child
+        has been crying over the same one for weeks now. They claim to have forgotten
+        everything about the nightmare, all but the excruciating cold and feeling
+        of impending doom. I can\u2019t imagine how such a small child would bear
+        feelings like those. I\u2019m the closest thing to a role model for them,
+        and I still can\u2019t do anything to help\u2026 I guess I\u2019m pretty useless
+        when I\u2019m not doing my job.\r\n\r\nDay 416 Mission Log - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
+--- !u!4 &271033197 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 271033196}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &284308628
 GameObject:
   m_ObjectHideFlags: 0
@@ -737,7 +1091,7 @@ Transform:
   m_LocalScale: {x: 28.677599, y: 0.5, z: 78.92544}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &290283900
 BoxCollider:
@@ -846,7 +1200,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dde01f890c648b349a53e7fe35855080, type: 3}
       propertyPath: m_RootOrder
-      value: 22
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dde01f890c648b349a53e7fe35855080, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -862,6 +1216,52 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dde01f890c648b349a53e7fe35855080, type: 3}
+--- !u!1 &337340633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 337340634}
+  m_Layer: 0
+  m_Name: STORY - INTERACTABLES
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &337340634
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 337340633}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1477702788}
+  - {fileID: 523949467}
+  - {fileID: 1900643722}
+  - {fileID: 271033197}
+  - {fileID: 906805677}
+  - {fileID: 1938860531}
+  - {fileID: 809269051}
+  - {fileID: 1906753372}
+  - {fileID: 1378643196}
+  - {fileID: 699920979}
+  - {fileID: 2088267195}
+  - {fileID: 1555612392}
+  - {fileID: 510923256}
+  - {fileID: 776732996}
+  - {fileID: 2027279714}
+  - {fileID: 800818531}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &340438432
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -907,7 +1307,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4024d8f78fce0f645a3c64854181c7e4, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 4024d8f78fce0f645a3c64854181c7e4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1045,7 +1445,7 @@ Transform:
   m_Children:
   - {fileID: 649414649}
   m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &392148884
 GameObject:
@@ -1136,7 +1536,7 @@ Transform:
   m_LocalScale: {x: 78.37658, y: 0.322, z: 20.608}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 90}
 --- !u!1 &482494122
 GameObject:
@@ -1247,7 +1647,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 360}
 --- !u!1 &494732100
 GameObject:
@@ -1431,6 +1831,195 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 502151790}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &510923255
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: ch4
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.528556
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.41209692
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 286.38562
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 419 <blank> Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "4.00 AM. Log 1: nightmare - The nightmares came back. It\u2019s the
+        second time tonight. I don\u2019t want to wake the engineer again so I\u2019ll
+        just sit here. It\u2019s weird though\u2026 The nightmare felt so real this
+        time. Why does it keep coming back. I\u2019m scared.\r\n\r\n10.30 AM. Log
+        2: help - I know what it means now. The nightmares were trying to tell me
+        this would happen. Something crashed into the ship and now the alarms are
+        going off. We\u2019re all going to die, I just know it. It happened in the
+        nightmare too. We\u2019ll crash and the ship will explode. We\u2019ll be sucked
+        into space and forgotten forever. I should have told someone. What have I
+        done. It\u2019s all my fault\u2014\r\n\r\nDay 419 Mission Log - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
+--- !u!4 &510923256 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 510923255}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &523949466
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: ch1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.631931
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 60.045815
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 416 <blank> Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "9.40 AM. Log 1: bad stuff - I saw something scary yesterday. I don\u2019t
+        want to write it down here because it\u2019s very bad. I don\u2019t want to
+        be scared of this anymore, so I\u2019m going to stop it.\r\n\r\n10.30 AM.
+        Log 2: stealing - I stole the knife out of the kitchen. I hope I can stop
+        the scary thing now. I don\u2019t know why that thing happened but after I
+        took the knife It will go away.\r\n\r\n9.40 AM. Log 3: no sleep - I don\u2019t
+        want to sleep again. The nightmares will come back. Why do they keep coming
+        every night, I don\u2019t want to see that stuff in my sleep again. I\u2019m
+        glad that the engineer has been here to help me when I wake up. They always
+        calm me down when I get sad from the nightmares.\r\n\r\nDay 416 Mission Log
+        - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
+--- !u!4 &523949467 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 523949466}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &534669902
 GameObject:
   m_ObjectHideFlags: 0
@@ -1710,6 +2299,113 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 683407641}
   m_CullTransparentMesh: 0
+--- !u!1001 &699920978
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: pt3
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 202.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 418 Pilot Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "10.00 AM. Log 1: Argument Put On Hold - The dispute from yesterday has
+        been put to rest for now. After a couple weeks of non-stop work, last night\u2019s
+        sleep is just what I needed to recover, and I admittedly feel somewhat calmer.
+        The others are certainly still taken aback by what I said about the child,
+        but I truly wish it no harm, or rather, I wish to do it no harm myself.\r\n\r\n2.30
+        PM. Log 2: Unusually Unproductive - What\u2019s gotten into me. I have been
+        so lazy today. Usually I do 25 - 30 various jobs a day, but today I only did
+        20. Has this incident with the child really affected me this much, or is this
+        just guilt for what I said about it. Regardless, tomorrow can not be a reflection
+        of today - I will make up for the lack of work today with extra jobs tomorrow.\r\n\r\n6.40
+        PM. Log 3: Guilt - I do feel rather guilty now. During dinner, the child admitted
+        to stealing the knife and gave quite the reason for it. Apparently the chef
+        was found harming herself with the blade and the child couldn\u2019t handle
+        seeing her get hurt. I never realised it before, but the child is quite mature
+        for its age, possibly even more so than that engineer. On a more positive
+        note, the dinner that the chef cooked was quite rejuvenating, possibly one
+        of her best so far.\r\n\r\nDay 418 Mission Log - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
+--- !u!4 &699920979 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 699920978}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &776732996 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 81833949}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &779414447
 GameObject:
   m_ObjectHideFlags: 0
@@ -1799,7 +2495,7 @@ Transform:
   m_LocalScale: {x: 28.677599, y: 0.5, z: 78.92544}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &798310159
 GameObject:
@@ -1892,6 +2588,12 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 798310159}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &800818531 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 1337125156}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &802874958
 GameObject:
   m_ObjectHideFlags: 0
@@ -1928,6 +2630,106 @@ RectTransform:
   m_AnchoredPosition: {x: -0.23000336, y: 0}
   m_SizeDelta: {x: -10.46, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1001 &809269050
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: cf2
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.469136
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.4947531
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 150.56078
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 417 Chef Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "9.10 AM. Log 1: Found the kife -  My precious knife has finally returned.
+        Although I\u2019m glad that I\u2019m able to properly cut meat again, I am
+        quite confused as to why the child took the knife in the first place. I\u2019m
+        not necessarily angry at them for stealing my knife, rather worried for their
+        safety. The fact that the child cried when they were asked why they stole
+        the blade is also worrying. I know that the child has been having nightmares
+        recently, so maybe they took it in hopes of feeling safe at night.\r\n\r\n1.45
+        PM. Log 2: Defusing a fight - I was in the middle of cleaning the lunch area
+        when I heard a heated conversation in another room grow into a full-blown
+        argument. The pilot and engineer are truly polar opposite individuals. At
+        times like this, I have to stay unbiased and just stop the yelling, but I
+        do agree with the engineer this time. The pilot was being very insensitive
+        when he said to ditch the child in space. Does he not realise that he suggested
+        murder? I\u2019m sure he\u2019ll regret what he said and feel bad about it
+        later, he\u2019s not really a bad person, he\u2019s just\u2026 stressed.\r\n\r\nDay
+        417 Mission Log - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
+--- !u!4 &809269051 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 809269050}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &843164346
 GameObject:
   m_ObjectHideFlags: 0
@@ -2002,6 +2804,42 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 843164346}
   m_CullTransparentMesh: 0
+--- !u!1 &850748919
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 850748920}
+  m_Layer: 5
+  m_Name: Story-UI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &850748920
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 850748919}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 66453591}
+  m_Father: {fileID: 2126582315}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &867291416
 GameObject:
   m_ObjectHideFlags: 0
@@ -2093,6 +2931,109 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 867291416}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &906805676
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: pt2
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.570517
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.610241
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 125.58815
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 417 Pilot Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "9.30 AM. Log 1: The Knife Returns - How predictable. The only immature
+        passenger, other than that engineer, has confessed to stealing the knife yesterday.
+        Why does the child play such games and then cry when reprimanded, don\u2019t
+        they understand the dangers of a blade. I\u2019m not worried for the child,
+        I just\u2026 Don\u2019t like the ruckus they\u2019re causing.\r\n\r\n1.50
+        PM. Log 2: Argument With Engineer - That damn, childish engineer. Does he
+        not see the consequences of the child\u2019s actions. Children are known to
+        be wildcards who bring chaos to the lives of many people\u2026 So what if
+        this child decides to use the knife to attack someone. Alas, I did say some
+        incriminating things during our argument. Obviously I do not intend to remove
+        the child from this ship, but it merely needs to be\u2026 Tamed. I\u2019m
+        glad the chef stepped between us though. If she hadn\u2019t, I may have continued
+        with my angered rant and horrible suggestions.\r\n\r\n10.40 PM. Log 3: Disruptive
+        Child - This is getting out of hand now. It has been weeks already, and that
+        child still wakes up screaming during the night. On a rare night where I do
+        not pass out, such as this, I have work to do, but that damn child is so distracting.
+        I should consider returning to my room and actually sleeping properly for
+        once if I am unable to work through the noise.\r\n\r\nDay 417 Mission Log
+        - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
+--- !u!4 &906805677 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 906805676}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &973159937
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2142,7 +3083,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dde01f890c648b349a53e7fe35855080, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: dde01f890c648b349a53e7fe35855080, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2199,7 +3140,7 @@ Transform:
   - {fileID: 1271173807}
   - {fileID: 2011807069}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1164650872
 GameObject:
@@ -2216,6 +3157,7 @@ GameObject:
   - component: {fileID: 1164650877}
   - component: {fileID: 1164650878}
   - component: {fileID: 1164650879}
+  - component: {fileID: 1164650880}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -2295,7 +3237,7 @@ Transform:
   m_Children:
   - {fileID: 534669905}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1164650877
 MonoBehaviour:
@@ -2360,6 +3302,23 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1164650880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1164650872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8597f364da3f30b41859fa783621b12d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainCamera: {fileID: 534669902}
+  logTitle: {fileID: 66453593}
+  logDesc: {fileID: 66453592}
+  device: {fileID: 850748919}
+  playerReach: 1
 --- !u!1001 &1166324467
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2372,14 +3331,6 @@ PrefabInstance:
       value: walkwaywreck1 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 100022, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
-      propertyPath: m_Layer
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 100018, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
-      propertyPath: m_Layer
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 100020, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
@@ -2419,6 +3370,14 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 100018, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 100020, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 400022, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: 20.831715
@@ -2449,7 +3408,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400022, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
       propertyPath: m_RootOrder
-      value: 23
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 400022, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2674,14 +3633,6 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
-    - target: {fileID: 100018, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
-      propertyPath: m_Layer
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 100020, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
-      propertyPath: m_Layer
-      value: 9
-      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
       propertyPath: m_Layer
       value: 9
@@ -2718,6 +3669,14 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 100018, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 100020, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 400022, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.6624155
@@ -2748,7 +3707,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400022, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
       propertyPath: m_RootOrder
-      value: 21
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 400022, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2791,14 +3750,6 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
-    - target: {fileID: 100018, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
-      propertyPath: m_Layer
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 100020, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
-      propertyPath: m_Layer
-      value: 9
-      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
       propertyPath: m_Layer
       value: 9
@@ -2835,6 +3786,14 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 100018, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 100020, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 400022, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: 16.715775
@@ -2865,7 +3824,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400022, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 400022, guid: bc7b16e1696bdee4e90c5bc293ef34ce, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -3321,6 +4280,106 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1295216092}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &1337125156
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: en4
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.29314423
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 395.46606
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 419 Engineer Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "11.20 AM. Log 1: Disaster - I don\u2019t have much time, there\u2019s
+        complete mayhem aboard this ship. Earlier this morning I was called in to
+        fix the returning navigation bug, but this time it was different. It attacked
+        a totally different section of code, and before we knew it, we were headed
+        straight towards an unidentified planet. I left the pilot in charge of flying
+        away as I checked if the chef and child were alright. I still haven\u2019t
+        found the chef, but the child\u2026 the child, they\u2026 I found them in
+        their room\u2026 I don\u2019t know what to do. They were so young\u2026 No,
+        right now I have to find the chef, the time to mourn comes later. This may
+        be my final mission log. Goodbye\u2026\r\n\r\n11.40 AM. Log 2: Final log -
+        The pilot is dead. He passed out at the wheel and was electrocuted by the
+        control panel. He probably realised the futility of his efforts, I don\u2019t
+        blame him. As much as our personalities clashed, I already miss him so much.
+        The chef is also... gone. I found her in a pool of her own blood beside the
+        kitchen sink, with a knife resting in her palm. She was probably the best
+        one of us, and yet she died in the worst way. I never really had the chance
+        to help her, I wish I had realised sooner. Now I'm hiding in my room and waiting
+        for my end. In my final few minutes, I can only feel pain. So much death has
+        happened on this ship today. The reason I came to space was to get away from
+        death - from this pain. It hurts... my heart hurts\u2026 I just want to hold
+        someone as I sit here waiting for death. Not yet\u2026 I don\u2019t want to
+        di\u2014\r\n\r\nDay 419 Mission Log - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
 --- !u!1 &1341836667
 GameObject:
   m_ObjectHideFlags: 0
@@ -3412,6 +4471,111 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1341836667}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &1378643195
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: en3
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 188.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 418 Engineer Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "10.15 AM. Log 1: Yesterday\u2019s argument resolved - The pilot seems
+        to have calmed down. He claims to have just been close to passing out during
+        our argument yesterday, but I know that was what he truly felt about the child.
+        I hope he doesn\u2019t do anything stupid... \r\n\r\n3.40 PM. Log 2: Lack
+        of work - I\u2019ve been thinking about the past few days. It has really taken
+        a toll on the crew\u2019s morale. The pilot is doing less work than usual,
+        the chef seems to keep mishandling her knife, as she has even more cuts on
+        her hands and wrists than usual, and the child has hidden away in their room.
+        This has definitely been the least productive day aboard this ship, but it
+        was somewhat deserved. As I sat beside the window of my room, I realised that
+        this is the closest we have come to being on holiday for a long time. The
+        quiet atmosphere is rather relaxing.\r\n\r\n7.00 PM. Log 3: Surprise at dinner
+        - All our problems regarding the child are finally resolved. The chef decided
+        to cook a special dinner for the crew in order to bring back our morale, and
+        it was quite delicious, but the real treat of the night was what the child
+        said. They told us that the reason for stealing the knife was to stop the
+        chef from getting hurt. This seemed odd at first, but the child recounted
+        peeking into the kitchen and seeing the chef get angry and cut herself. Actually,
+        its quite sad that the chef is doing this, but thanks to the child, we can
+        help the chef with whatever she\u2019s going through.\r\n\r\nDay 418 Mission
+        Log - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
+--- !u!4 &1378643196 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 1378643195}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1397321010
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3457,7 +4621,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e1627bce4fbb7441a4dace396838109, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5e1627bce4fbb7441a4dace396838109, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -3693,6 +4857,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1474842041}
   m_CullTransparentMesh: 0
+--- !u!4 &1477702788 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 38355645585247730}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1485908241
 GameObject:
   m_ObjectHideFlags: 0
@@ -3856,8 +5026,104 @@ Transform:
   m_LocalScale: {x: 2.9959614, y: 2.9959614, z: 2.9959614}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1555612391
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: ch3
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -28.074783
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 269.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 418 <blank> Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "11.10 AM. Log 1: yelling stopped - The pilot and engineer seem to have
+        calmed down on their own. I\u2019m still going to tell them why I took the
+        knife though, I just hope they don\u2019t get mad again. I\u2019ve been so
+        scared for a while now. I stole the knife for a good reason, I promise.\r\n\r\n2.50
+        PM. Log 2: bored - Today suuuuucks. Nobody has done anything all day. I guess
+        the fight tired everybody out. I hope tomorrow is better\u2026 Maybe I should
+        try cheer everyone up somehow. It would be bad if this continued tomorrow\u2026
+        \r\n\r\n7.20 PM. Log 3: dinner - I told the crew my reason for stealing the
+        knife at dinner tonight. I\u2019m so happy that they didn\u2019t get mad at
+        me, but they did look quite worried. Maybe they\u2019ll be able to help with
+        that scary thing. I never want to see it again\u2026 \r\n\r\nDay 418 Mission
+        Log - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
+--- !u!4 &1555612392 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 1555612391}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1573134528
 GameObject:
   m_ObjectHideFlags: 0
@@ -3947,8 +5213,100 @@ Transform:
   m_LocalScale: {x: 28.654163, y: 0.322, z: 20.608}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!1001 &1595930328
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: pt4
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -18.690544
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.125843
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 363.19354
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "10.00 AM. Log 1: More Bugs - That engineer had better come and do his
+        job properly this time. It\u2019s getting quite annoying having to call him
+        in so often to fix this bug, can\u2019t he just\u2026 delete the bug? I don\u2019t
+        know how that stuff works, but he should know what to do by now, the bug has
+        been here for such a long while.\r\n\r\n11.10 AM. Log 2: Long Life - Time
+        is up for me. The bug has steered us off course and we are now headed towards
+        an unknown planet. This life has been long and strict, and in turn I have
+        grown quite harsh. I regret only one thing in life, and that is not being
+        a person that my crew members could rely on. We may have disagreed on a multitude
+        of things, but we have truly become friends. The engineer has left me to pilot
+        us away from the planet, but the main thrusters are blown, the back up thrusters
+        blown too, and I\u2019m already so tired. There is no escape.  I\u2019m sorry
+        crew\u2026 I have to go to sleep\u2026 just a little bit earlier\u2026 than
+        usual\u2014\r\n\r\nDay 419 Mission Log - Complete.\r\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: 'Day 419 Pilot Mission Log '
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
 --- !u!1 &1629364261
 GameObject:
   m_ObjectHideFlags: 0
@@ -3978,7 +5336,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1629364263
 MonoBehaviour:
@@ -4101,7 +5459,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 360}
 --- !u!1 &1733851930
 GameObject:
@@ -4266,7 +5624,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1775498417
 GameObject:
@@ -4575,6 +5933,204 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1844495908}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &1900643721
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: cf1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.655205
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.125843
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 75.41283
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 416 Chef Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "10.10 AM. Log 1: Missing knife - I\u2019ve failed yet again. Why am
+        I such a disappointment. I am the lone chef aboard this ship, the one who
+        is most responsible for the knives. How could I have possibly lost that blade.
+        I only take it from the chopping board to the sink, and vice versa. The furthest
+        it could have possibly gone is down to the floor, but I have surveyed the
+        grounds many times. I must punish myself for this mistake, I have to learn.\r\n\r\n2.15
+        PM. Log 2: Bleeding worsens - Lunch was a success, but I couldn\u2019t shake
+        the feeling of failure from earlier this morning. As I rolled up my sleeves
+        to punish myself for that mistake, I noticed old wounds reopening. Cutting
+        space is becoming rarer, but It must be done, so I\u2019ll keep studying medicine
+        to make my cuts heal faster.\r\n\r\n5.40 PM. Log 3: Idiotic pilot - The pilot
+        really needs to learn moderation. Since I\u2019m the most trained medical
+        officer of the crew, I\u2019m the one looking after him when he passes out
+        from exhaustion. Maybe I should drug his food with energy vitamins, since
+        he refuses to take them willingly. Apparently they\u2019re \u2018not natural\u2019
+        and \u2018aren\u2019t good for human bodies\u2019, but what does he know?
+        He\u2019s just some old man who can fly a ship.\r\n\r\nDay 416 Mission Log
+        - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
+--- !u!4 &1900643722 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 1900643721}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1906753371
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: ch2
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.9199998
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 172.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 417 <blank> Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "8.50 AM. Log 1: keeping the knife - I feel bad about stealing the chef's
+        knife. I know that I stole it for a reason, but she looks so sad without it.
+        Maybe I should give it back. I\u2019ll tell them why I took it soon, I\u2019m
+        sure she\u2019ll understand.\r\n\r\n10.05 AM. Log 2: in trouble - I gave the
+        knife back but the crew wasn\u2019t happy that I took it. The engineer is
+        usually friendly, but when he asked why I took it, I cried and he got mad.
+        I know he was just scared. I\u2019ll tell everyone why I took it tomorrow.\r\n\r\n1.30
+        PM. Log 3: yelling - I knew that I shouldn\u2019t have given the knife back.
+        The pilot and engineer are fighting right now about why I stole the chef\u2019s
+        knife. The pilot keeps saying bad things about me. He doesn\u2019t mean them,
+        surely. Everyone is just angry, but they will understand.\r\n\r\nDay 417 Mission
+        Log - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
+--- !u!4 &1906753372 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 1906753371}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1928824885
 GameObject:
   m_ObjectHideFlags: 0
@@ -4611,6 +6167,108 @@ RectTransform:
   m_AnchoredPosition: {x: -0.23000336, y: 0}
   m_SizeDelta: {x: -10.46, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1001 &1938860530
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: en2
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.29879
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.444333
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 135.6425
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 417 Engineer Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "9.40 AM. Log 1: Kitchen knife found - An odd turn of events has occurred:
+        the child confessed to stealing the knife. They broke down in tears as they
+        apologised, but still refused to give motive to their actions. I trust the
+        child, but this is getting more worrying by the day.\r\n\r\n10.20 AM. Log
+        2: Child Interrogation - After the events of this morning, I decided to take
+        it upon myself to question the child on their intentions with the blade, but
+        they wouldn\u2019t talk. I grew quite worried, and admittedly, got quite angry.
+        I shouted at the child, but they only cried harder. This matter is better
+        left for another day.\r\n\r\n2.00 PM. Log 3: Argument with pilot - That damn,
+        inconsiderate pilot. He argues about whether or not we should keep the child
+        on the ship, but what\u2019s he going to do if he gets his way? Actually eject
+        the kid from the ship? All this pointless arguing is just annoying now, the
+        child obviously meant us no harm. Thank god for the chef, she really knows
+        how to stop an argument. Although, she can be quite threatening with a knife
+        in hand, she has a way with words that just makes arguing seem pointless.
+        Anyway, there must be a logical and reasonable explanation for the child's
+        suspicious behaviour, maybe the nightmares are contributing in some way\u2026\r\n\r\nDay
+        417 Mission Log - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
+--- !u!4 &1938860531 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 1938860530}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1978139371
 GameObject:
   m_ObjectHideFlags: 0
@@ -4971,6 +6629,12 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2011807068}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &2027279714 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 1595930328}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2029184784
 GameObject:
   m_ObjectHideFlags: 0
@@ -5091,8 +6755,113 @@ Transform:
   m_Children:
   - {fileID: 798310160}
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2088267194
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: cf3
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -37.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 226.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: 'Day 418 Chef Mission Log '
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "11.20 AM. Log 1: Resolved argument - I\u2019m glad to be told that yesterday's
+        argument has finally concluded. It seems as though the pilot has thought about
+        his actions and is quietly surrendering, good on him. \r\n\r\n3.00 PM. Log
+        2: Low effort - Today was pretty relaxing. With only a bit of work being completed
+        today, I didn\u2019t have to prepare as much food for the crew. It\u2019s
+        quite a waste of my talents, but we all need a break, and today was perfect
+        timing. I\u2019ve been thinking of cooking up a big feast, and with nothing
+        being done today, I'll have plenty of time to prepare everything.\r\n\r\n7.10
+        PM. Log 3: Caught by the child - Dinner was a success, everyone was having
+        a great time. That was until the child spoke up and gave reason for stealing
+        the knife the other day. They had apparently seen me using the knife to cut
+        myself, which was probably just me punishing myself for some mistake I made.
+        They stole the blade because they didn\u2019t want me to get hurt, but I\u2019ll
+        have to punish myself for getting caught. If I get caught again, I might be
+        confronted by the other crew members, and I wouldn\u2019t know how to explain
+        myself. I\u2019ll go and punish myself right now. Actually, no, I won\u2019t
+        cut myself this time. That child stole the knife for a reason. If they can
+        be more mature than me about this issue, then I really have to grow up. From
+        now on, I won\u2019t punish myself for these mistakes. Instead I\u2019ll\u2026
+        I don\u2019t know what I\u2019ll do yet, but It\u2019ll all work out.\r\n\r\nDay
+        418 Mission Log - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
+--- !u!4 &2088267195 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+    type: 3}
+  m_PrefabInstance: {fileID: 2088267194}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2126582311
 GameObject:
   m_ObjectHideFlags: 0
@@ -5187,11 +6956,104 @@ RectTransform:
   - {fileID: 346691893}
   - {fileID: 1485908242}
   - {fileID: 1733851931}
+  - {fileID: 850748920}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1001 &38355645585247730
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 337340634}
+    m_Modifications:
+    - target: {fileID: 38355647060687217, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_Name
+      value: pt1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 34.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 38355647060687222, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logTitle
+      value: Day 416 Pilot Mission Log
+      objectReference: {fileID: 0}
+    - target: {fileID: 95668733906979859, guid: 1ddde98d8f3b1064aafc48a202869f05,
+        type: 3}
+      propertyPath: logDesc
+      value: "3.15 AM. Log 1: System Error - Another day, another damn bug in the
+        system. That engineer better come and fix this soon- Ah wait, I failed to
+        notice the time, I\u2019ll let them sleep for now. Regardless, the fact that
+        this bug keeps returning is worrying me, but at least it has a consistent
+        schedule, similar to an organised man such as myself.\r\n\r\n10.30 AM. Log
+        2: Unorganised Chef - I can\u2019t believe that the chef has lost one of her
+        knives. How dimwitted would you have to be to lose something on a ship which
+        is isolated in space. How far could it have gone? She\u2019d be right to learn
+        a thing or two from me, for I am, after all, an organised and well mannered
+        man. \r\n\r\n5.20 PM. Log 3: Exhaustion Yet Again - I feel myself falling
+        asleep again. It\u2019s not as though I do that much work, I only\u2026 Do
+        what needs to be done. My body is just weak. One day I\u2019ll be able to
+        handle the workload and not pass out, but for now I\u2019ll just enjoy this
+        sleep.\r\n\r\nDay 416 Mission Log - Complete.\r\n"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ddde98d8f3b1064aafc48a202869f05, type: 3}
